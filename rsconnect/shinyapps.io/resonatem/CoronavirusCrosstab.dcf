@@ -1,0 +1,12 @@
+name: CoronavirusCrosstab
+title: CoronavirusCrosstab
+username:
+account: resonatem
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2007958
+bundleId: 2945271
+url: https://resonatem.shinyapps.io/CoronavirusCrosstab/
+when: 1585594124.06908
+asMultiple: FALSE
+asStatic: FALSE

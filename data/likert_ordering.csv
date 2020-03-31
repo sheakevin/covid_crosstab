@@ -1,0 +1,43 @@
+﻿likert_option,ordering
+Decrease to a large extent,1
+Decrease to a moderate extent,2
+Decrease to a small extent,3
+Increase to a large extent,7
+Increase to a moderate extent,6
+Increase to a small extent,5
+Remain about the same,4
+Decreased to a large extent,1
+Decreased to a moderate extent,2
+Decreased to a small extent,3
+Increased to a large extent,7
+Increased to a moderate extent,6
+Increased to a small extent,5
+Stayed the same,4
+To a large extent,5
+To a moderate extent,4
+To a small extent,3
+To a very large extent,6
+To a very small extent,2
+To an extremely large extent,7
+To an extremely small extent,1
+Agree,6
+Disagree,2
+Mildly agree,5
+Mildly disagree,3
+Neither agree nor disagree,4
+Strongly agree,7
+Strongly disagree,1
+Worse,2
+Better,6
+Mildly better,5
+Mildly worse,3
+Much better,7
+Much worse,1
+Stayed the same,4
+Mildly more opposed,3
+Mildly more supportive,5
+Moderately more opposed,2
+Moderately more supportive,6
+Much more opposed,1
+Much more supportive,7
+Stayed the same,4
