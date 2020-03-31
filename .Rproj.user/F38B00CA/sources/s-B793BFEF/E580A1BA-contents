@@ -76,7 +76,9 @@ ui <- fluidPage(
   mainPanel(
     
     h2("Composition"), 
-    dataTableOutput("composition_table", width = "100%"), 
+    # column(3, textOutput("question_text")),
+    # column(9, dataTableOutput("composition_table", width = "100%")), 
+    dataTableOutput("composition_table", width = "100%"),
     h2("Index"),
     dataTableOutput("index_table")
   )

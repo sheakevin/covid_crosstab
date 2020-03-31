@@ -9,6 +9,10 @@ function(input, output, session) {
     return(my_data)
     
   })
+  
+  # output$question_text <- renderText({
+  #   input$audience
+  # })
 
   output$composition_table = renderDataTable({
     data_to_display() %>%
@@ -23,7 +27,9 @@ function(input, output, session) {
       arrange(ordering) %>%
       select(-ordering) %>%
       rename(audience = audience_answer) %>%
-      datatable(options = list(sDom  = '<"top">lrt<"bottom">ip'), 
+      datatable(extensions = 'Buttons',
+                options = list(sDom  = '<"top">lrt<"bottom">Bip', 
+                               buttons = c('copy', 'csv')), 
                 caption = tags$caption(style = 'font-weight: bold; line-height: 2;
                                        text-align: center;', 
                                        input$insight)) %>%
@@ -43,7 +49,9 @@ function(input, output, session) {
       arrange(ordering) %>%
       select(-ordering) %>%
       rename(audience = audience_answer) %>%
-      datatable(options = list(sDom  = '<"top">lrt<"bottom">ip'), 
+      datatable(extensions = 'Buttons', 
+                options = list(sDom  = '<"top">lrt<"bottom">Bip', 
+                               buttons = c('copy', 'csv')), 
                 caption = tags$caption(style = 'font-weight: bold; line-height: 2;
                                        text-align: center;', 
                                        input$insight)) %>%
