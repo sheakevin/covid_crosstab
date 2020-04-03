@@ -5,8 +5,7 @@ library(htmltools)
 
 survey_data <- readRDS("data/survey_crosstab_for_shiny.RDS")
 likert_ordering <- read_csv("data/likert_ordering.csv")
-#audience_questions <- sort(unique(survey_data$audience_question_text))
-#insight_questions <- sort(unique(survey_data$insight_question_text))
+#likert_ordering <- read_csv("data/likert_ordering_v2.csv")
 
 audience_questions_2001 <- survey_data %>% 
   ungroup() %>%

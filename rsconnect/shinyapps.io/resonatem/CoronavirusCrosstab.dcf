@@ -5,8 +5,8 @@ account: resonatem
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 2007958
-bundleId: 2945271
+bundleId: 2962081
 url: https://resonatem.shinyapps.io/CoronavirusCrosstab/
-when: 1585594124.06908
+when: 1585874655.31926
 asMultiple: FALSE
 asStatic: FALSE

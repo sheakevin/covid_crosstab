@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1585324461516.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1653400519",
+    "id" : "B4BC64B8",
+    "lastKnownWriteTime" : 1585929649,
+    "last_content_update" : 1585929649638,
+    "path" : "~/OneDrive - Resonate.com/Custom/Coronavirus/CovidCrossTab/CoronavirusCrosstab/server.R",
+    "project_path" : "server.R",
+    "properties" : {
+        "cursorPosition" : "24,57",
+        "scrollLine" : "24",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -23,7 +23,7 @@ function(input, output, session) {
                   values_from = composition_raw) %>%
       left_join(x = ., y = likert_ordering, 
                 by = c("audience_answer" = "likert_option")) %>%
-      #distinct() %>%
+      distinct() %>%
       arrange(ordering) %>%
       select(-ordering) %>%
       rename(audience = audience_answer) %>%
@@ -45,7 +45,7 @@ function(input, output, session) {
                   values_from = index_raw) %>%
       left_join(x = ., y = likert_ordering, 
                 by = c("audience_answer" = "likert_option")) %>%
-      #distinct() %>%
+      distinct() %>%
       arrange(ordering) %>%
       select(-ordering) %>%
       rename(audience = audience_answer) %>%
