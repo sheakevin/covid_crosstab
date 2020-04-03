@@ -7,13 +7,13 @@
     "folds" : "",
     "hash" : "0",
     "id" : "B4BC64B8",
-    "lastKnownWriteTime" : 1585669126,
-    "last_content_update" : 1585669126610,
+    "lastKnownWriteTime" : 1585931217,
+    "last_content_update" : 1585931217,
     "path" : "~/OneDrive - Resonate.com/Custom/Coronavirus/CovidCrossTab/CoronavirusCrosstab/server.R",
     "project_path" : "server.R",
     "properties" : {
-        "cursorPosition" : "28,14",
-        "scrollLine" : "32",
+        "cursorPosition" : "17,10",
+        "scrollLine" : "17",
         "tempName" : "Untitled1"
     },
     "read_only" : false,

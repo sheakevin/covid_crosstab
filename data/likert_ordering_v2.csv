@@ -1,0 +1,952 @@
+﻿question,answer,ordering
+Q195603_195604,Spanish,
+Q195603_195605,Any language of Asia-Pacific origin,
+Q195603_195606,English,
+Q195603_195608,Any language of sub-continental Asian origin,
+Q195603_195609,Any language of European origin,
+Q195603_195610,Other,
+Q195603_195611,Any language of Middle-Eastern origin,
+Q195621,Bisexual,
+Q195621,Heterosexual or Straight,
+Q195621,"Homosexual, Gay or Lesbian",
+Q195621,Other,
+Q195621,Prefer not to identify,
+Q195633,Less than high school degree,1
+Q195633,High school,2
+Q195633,Some college,3
+Q195633,"College degree ‚Äì AA, BA, BS, etc",4
+Q195633,"Post-graduate degree ‚Äì Masters, PhD, MD, JD, etc",5
+Q195669,Yes,1
+Q195669,No,2
+Q195669,Prefer not to identify,3
+Q196029_196030,"No, not of Hispanic or Latino descent",
+Q196029_196031,"Yes, Mexican, Mexican American, Chicano",
+Q196029_196032,"Yes, Puerto Rican",
+Q196029_196033,"Yes, Cuban",
+Q196029_196034,"Yes, another Hispanic or Latino descent",
+Q196041,Female,
+Q196041,Male,
+Q196057,"Less than $5,000",1
+Q196057,"$5,000 to $9,999",2
+Q196057,"$10,000 to $14,999",3
+Q196057,"$15,000 to $19,999",4
+Q196057,"$20,000 to $24,999",5
+Q196057,"$25,000 to $49,999",6
+Q196057,"$50,000 to $74,999",7
+Q196057,"$75,000 to $99,999",8
+Q196057,"$100,000 to $149,999",9
+Q196057,"$150,000 to $199,999",10
+Q196057,"$200,000 to $249,999",11
+Q196057,"$250,000 to $299,999",12
+Q196057,"$300,000 to $349,999",13
+Q196057,"$450,000 to $499,999",14
+Q196057,"$500,000 or more",15
+Q196071_196072,Asian,
+Q196071_196073,Hispanic,
+Q196071_196074,White,
+Q196071_196075,Black or African-American,
+Q196071_196076,Native American,
+Q196071_196077,Middle Eastern or North African,
+Q196071_196078,Other,
+Q196087_196088,Under 1 year old,1
+Q196087_196089,15 to under 18 years old,6
+Q196087_196090,2 to under 5 years old,3
+Q196087_196091,5 to under 10 years old,4
+Q196087_196092,1 to under 2 years old,2
+Q196087_196093,18 years or older living in your household,7
+Q196087_196095,10 to under 15 years old,5
+Q196087_196096,"18 years or older, but not living in your household",8
+Q196087_196097,Do not have children,9
+Q196578_196579,Cat(s),
+Q196578_196580,Other,
+Q196578_196581,No pets,
+Q196578_196582,Dog(s),
+Q197993,"I am the main user, but occasionally others use it",
+Q197993,I am the only one who uses this device,
+Q198013,Less than 1 hour,1
+Q198013,1 to 4 hours,2
+Q198013,5 to 9 hours,3
+Q198013,10 to 19 hours,4
+Q198013,20 to 39 hours,5
+Q198013,40 or more hours,6
+Q228392,I voted at an election office on election day,1
+Q228392,I voted at an election office before election day (Early Voting),2
+Q228392,I voted by mail or submitting a ballot at a designated location (Absentee Voting),3
+Q228392,Did not vote,4
+Q228392,Don't know or not sure,5
+Q228594,Yes,1
+Q228594,No,2
+Q228594,Not sure,3
+Q259890,Living alone,
+Q259890,Living at home with parents,
+Q259890,Living with adult friends/housemates,
+Q259890,Living with partner/spouse with children in the household,
+Q259890,Living with partner/spouse without children,
+Q259890,Single parent with children,
+Q381789,Do not plan to vote in any primary,
+Q381789,Don't know or not sure,
+Q381789,Vote in Democratic primary,
+Q381789,Vote in Republican primary,
+Q381789,Vote in a different party's primary,
+Q381801,Don't know or not sure,
+Q381801,No,
+Q381801,Yes,
+Q390128,No,
+Q390128,Yes,
+Q452694_452695,iPhone,
+Q452694_452696,"iMac, MacBook, or Mac",
+Q452694_452697,iPad,
+Q452694_452698,None of the above,
+Q465972,1 month or less,1
+Q465972,2 to 3 months,2
+Q465972,4 to 6 months,3
+Q465972,7 to 12 months,4
+Q465972,More than 1 year,5
+Q465972,Never,6
+Q465984,Decrease to a large extent,1
+Q465984,Decrease to a moderate extent,2
+Q465984,Decrease to a small extent,3
+Q465984,Remain about the same,4
+Q465984,Increase to a small extent,5
+Q465984,Increase to a moderate extent,6
+Q465984,Increase to a large extent,7
+Q466000,Decrease to a large extent,1
+Q466000,Decrease to a moderate extent,2
+Q466000,Decrease to a small extent,3
+Q466000,Remain about the same,4
+Q466000,Increase to a small extent,5
+Q466000,Increase to a moderate extent,6
+Q466000,Increase to a large extent,7
+Q466048,Decrease to a large extent,1
+Q466048,Decrease to a moderate extent,2
+Q466048,Decrease to a small extent,3
+Q466048,Remain about the same,4
+Q466048,Increase to a small extent,5
+Q466048,Increase to a moderate extent,6
+Q466048,Increase to a large extent,7
+Q466064,Decrease to a large extent,1
+Q466064,Decrease to a moderate extent,2
+Q466064,Decrease to a small extent,3
+Q466064,Remain about the same,4
+Q466064,Increase to a small extent,5
+Q466064,Increase to a moderate extent,6
+Q466064,Increase to a large extent,7
+Q466096,Decrease to a large extent,1
+Q466096,Decrease to a moderate extent,2
+Q466096,Decrease to a small extent,3
+Q466096,Remain about the same,4
+Q466096,Increase to a small extent,5
+Q466096,Increase to a moderate extent,6
+Q466096,Increase to a large extent,7
+Q466129,"Maybe - I believe I may have the coronavirus, but it has not yet been confirmed",
+Q466129,No,
+Q466129,Yes - and it has been confirmed by a medical diagnosis or test,
+Q466137,"Maybe - the person believes she/he may have the coronavirus, but it has not yet been confirmed",
+Q466137,No,
+Q466137,Yes - and it has confirmed by a medical diagnosis or test,
+Q466148,To an extremely small extent,1
+Q466148,To a very small extent,2
+Q466148,To a small extent,3
+Q466148,To a moderate extent,4
+Q466148,To a large extent,5
+Q466148,To a very large extent,6
+Q466148,To an extremely large extent,7
+Q466148,NA: Have Already Contracted the Virus,8
+Q466162,To an extremely small extent,1
+Q466162,To a very small extent,2
+Q466162,To a small extent,3
+Q466162,To a moderate extent,4
+Q466162,To a large extent,5
+Q466162,To a very large extent,6
+Q466162,To an extremely large extent,7
+Q466162,NA: Have Already Contracted the Virus,8
+Q466192,Decreased to a large extent,1
+Q466192,Decreased to a moderate extent,2
+Q466192,Decreased to a small extent,3
+Q466192,Stayed the same,4
+Q466192,Increased to a small extent,5
+Q466192,Increased to a moderate extent,6
+Q466192,Increased to a large extent,7
+Q466208,Decreased to a large extent,1
+Q466208,Decreased to a moderate extent,2
+Q466208,Decreased to a small extent,3
+Q466208,Stayed the same,4
+Q466208,Increased to a small extent,5
+Q466208,Increased to a moderate extent,6
+Q466208,Increased to a large extent,7
+Q466224,Decreased to a large extent,1
+Q466224,Decreased to a moderate extent,2
+Q466224,Decreased to a small extent,3
+Q466224,Stayed the same,4
+Q466224,Increased to a small extent,5
+Q466224,Increased to a moderate extent,6
+Q466224,Increased to a large extent,7
+Q466240,Decreased to a large extent,1
+Q466240,Decreased to a moderate extent,2
+Q466240,Decreased to a small extent,3
+Q466240,Stayed the same,4
+Q466240,Increased to a small extent,5
+Q466240,Increased to a moderate extent,6
+Q466240,Increased to a large extent,7
+Q466277,To an extremely small extent,1
+Q466277,To a very small extent,2
+Q466277,To a small extent,3
+Q466277,To a moderate extent,4
+Q466277,To a large extent,5
+Q466277,To a very large extent,6
+Q466277,To an extremely large extent,7
+Q466309,To an extremely small extent,1
+Q466309,To a very small extent,2
+Q466309,To a small extent,3
+Q466309,To a moderate extent,4
+Q466309,To a large extent,5
+Q466309,To a very large extent,6
+Q466309,To an extremely large extent,7
+Q466325,To an extremely small extent,1
+Q466325,To a very small extent,2
+Q466325,To a small extent,3
+Q466325,To a moderate extent,4
+Q466325,To a large extent,5
+Q466325,To a very large extent,6
+Q466325,To an extremely large extent,7
+Q466341,To an extremely small extent,1
+Q466341,To a very small extent,2
+Q466341,To a small extent,3
+Q466341,To a moderate extent,4
+Q466341,To a large extent,5
+Q466341,To a very large extent,6
+Q466341,To an extremely large extent,7
+Q466357,To an extremely small extent,1
+Q466357,To a very small extent,2
+Q466357,To a small extent,3
+Q466357,To a moderate extent,4
+Q466357,To a large extent,5
+Q466357,To a very large extent,6
+Q466357,To an extremely large extent,7
+Q466357,Do not own a car/vehicle,8
+Q466373,To an extremely small extent,1
+Q466373,To a very small extent,2
+Q466373,To a small extent,3
+Q466373,To a moderate extent,4
+Q466373,To a large extent,5
+Q466373,To a very large extent,6
+Q466373,To an extremely large extent,7
+Q466406,Decrease to a large extent,1
+Q466406,Decrease to a moderate extent,2
+Q466406,Decrease to a small extent,3
+Q466406,Remain about the same,4
+Q466406,Increase to a small extent,5
+Q466406,Increase to a moderate extent,6
+Q466406,Increase to a large extent,7
+Q466430,Decrease to a large extent,1
+Q466430,Decrease to a moderate extent,2
+Q466430,Decrease to a small extent,3
+Q466430,Remain about the same,4
+Q466430,Increase to a small extent,5
+Q466430,Increase to a moderate extent,6
+Q466430,Increase to a large extent,7
+Q466430,Do not have stock,8
+Q466446,Decrease to a large extent,1
+Q466446,Decrease to a moderate extent,2
+Q466446,Decrease to a small extent,3
+Q466446,Remain about the same,4
+Q466446,Increase to a small extent,5
+Q466446,Increase to a moderate extent,6
+Q466446,Increase to a large extent,7
+Q466462,Decrease to a large extent,1
+Q466462,Decrease to a moderate extent,2
+Q466462,Decrease to a small extent,3
+Q466462,Remain about the same,4
+Q466462,Increase to a small extent,5
+Q466462,Increase to a moderate extent,6
+Q466462,Increase to a large extent,7
+Q466481,Decrease to a large extent,1
+Q466481,Decrease to a moderate extent,2
+Q466481,Decrease to a small extent,3
+Q466481,Stay the same,4
+Q466481,Increase to a small extent,5
+Q466481,Increase to a moderate extent,6
+Q466481,Increase to a large extent,7
+Q466507,Decrease to a large extent,1
+Q466507,Decrease to a moderate extent,2
+Q466507,Decrease to a small extent,3
+Q466507,Stay the same,4
+Q466507,Increase to a small extent,5
+Q466507,Increase to a moderate extent,6
+Q466507,Increase to a large extent,7
+Q466523,Decrease to a large extent,1
+Q466523,Decrease to a moderate extent,2
+Q466523,Decrease to a small extent,3
+Q466523,Stay the same,4
+Q466523,Increase to a small extent,5
+Q466523,Increase to a moderate extent,6
+Q466523,Increase to a large extent,7
+Q466542,Decrease to a large extent,1
+Q466542,Decrease to a moderate extent,2
+Q466542,Decrease to a small extent,3
+Q466542,Stay the same,4
+Q466542,Increase to a small extent,5
+Q466542,Increase to a moderate extent,6
+Q466542,Increase to a large extent,7
+Q466582,Decrease to a large extent,1
+Q466582,Decrease to a moderate extent,2
+Q466582,Decrease to a small extent,3
+Q466582,Stay the same,4
+Q466582,Increase to a small extent,5
+Q466582,Increase to a moderate extent,6
+Q466582,Increase to a large extent,7
+Q466598,Decrease to a large extent,1
+Q466598,Decrease to a moderate extent,2
+Q466598,Decrease to a small extent,3
+Q466598,Stay the same,4
+Q466598,Increase to a small extent,5
+Q466598,Increase to a moderate extent,6
+Q466598,Increase to a large extent,7
+Q466633,Decrease to a large extent,1
+Q466633,Decrease to a moderate extent,2
+Q466633,Decrease to a small extent,3
+Q466633,Stay the same,4
+Q466633,Increase to a small extent,5
+Q466633,Increase to a moderate extent,6
+Q466633,Increase to a large extent,7
+Q466633,NA: Do Not Have Subscription,8
+Q466660,Decrease to a large extent,1
+Q466660,Decrease to a moderate extent,2
+Q466660,Decrease to a small extent,3
+Q466660,Stay the same,4
+Q466660,Increase to a small extent,5
+Q466660,Increase to a moderate extent,6
+Q466660,Increase to a large extent,7
+Q466660,NA: Do Not Have Subscription,8
+Q466678,Decrease to a large extent,1
+Q466678,Decrease to a moderate extent,2
+Q466678,Decrease to a small extent,3
+Q466678,Stay the same,4
+Q466678,Increase to a small extent,5
+Q466678,Increase to a moderate extent,6
+Q466678,Increase to a large extent,7
+Q466678,NA: Already Have Subscription,8
+Q466784,Decrease to a large extent,1
+Q466784,Decrease to a moderate extent,2
+Q466784,Decrease to a small extent,3
+Q466784,Stay the same,4
+Q466784,Increase to a small extent,5
+Q466784,Increase to a moderate extent,6
+Q466784,Increase to a large extent,7
+Q466784,NA: Already Have Subscription,8
+Q466800,Decrease to a large extent,1
+Q466800,Decrease to a moderate extent,2
+Q466800,Decrease to a small extent,3
+Q466800,Stay the same,4
+Q466800,Increase to a small extent,5
+Q466800,Increase to a moderate extent,6
+Q466800,Increase to a large extent,7
+Q466800,NA: Already Have Subscription,8
+Q466819,Strongly disagree,1
+Q466819,Disagree,2
+Q466819,Mildly disagree,3
+Q466819,Neither agree nor disagree,4
+Q466819,Mildly agree,5
+Q466819,Agree,6
+Q466819,Strongly agree,7
+Q466835,Strongly disagree,1
+Q466835,Disagree,2
+Q466835,Mildly disagree,3
+Q466835,Neither agree nor disagree,4
+Q466835,Mildly agree,5
+Q466835,Agree,6
+Q466835,Strongly agree,7
+Q466851,Strongly disagree,1
+Q466851,Disagree,2
+Q466851,Mildly disagree,3
+Q466851,Neither agree nor disagree,4
+Q466851,Mildly agree,5
+Q466851,Agree,6
+Q466851,Strongly agree,7
+Q466867,Strongly disagree,1
+Q466867,Disagree,2
+Q466867,Mildly disagree,3
+Q466867,Neither agree nor disagree,4
+Q466867,Mildly agree,5
+Q466867,Agree,6
+Q466867,Strongly agree,7
+Q466885,Much worse,1
+Q466885,Worse,2
+Q466885,Mildly worse,3
+Q466885,Stayed the same,4
+Q466885,Mildly better,5
+Q466885,Better,6
+Q466885,Much better,7
+Q466901,Much worse,1
+Q466901,Worse,2
+Q466901,Mildly worse,3
+Q466901,Stayed the same,4
+Q466901,Mildly better,5
+Q466901,Better,6
+Q466901,Much better,7
+Q466917,Much worse,1
+Q466917,Worse,2
+Q466917,Mildly worse,3
+Q466917,Stayed the same,4
+Q466917,Mildly better,5
+Q466917,Better,6
+Q466917,Much better,7
+Q466952,Decrease to a large extent,1
+Q466952,Decrease to a moderate extent,2
+Q466952,Decrease to a small extent,3
+Q466952,Remain about the same,4
+Q466952,Increase to a small extent,5
+Q466952,Increase to a moderate extent,6
+Q466952,Increase to a large extent,7
+Q466992,To an extremely small extent,1
+Q466992,To a very small extent,2
+Q466992,To a small extent,3
+Q466992,To a moderate extent,4
+Q466992,To a large extent,5
+Q466992,To a very large extent,6
+Q466992,To an extremely large extent,7
+Q466992,Do not have an elderly family member,8
+Q466992,NA: Have Already Contracted the Virus,9
+Q467008,To an extremely small extent,1
+Q467008,To a very small extent,2
+Q467008,To a small extent,3
+Q467008,To a moderate extent,4
+Q467008,To a large extent,5
+Q467008,To a very large extent,6
+Q467008,To an extremely large extent,7
+Q467008,NA: Have Already Contracted the Virus,8
+Q467024,To an extremely small extent,1
+Q467024,To a very small extent,2
+Q467024,To a small extent,3
+Q467024,To a moderate extent,4
+Q467024,To a large extent,5
+Q467024,To a very large extent,6
+Q467024,To an extremely large extent,7
+Q467048,To an extremely small extent,1
+Q467048,To a very small extent,2
+Q467048,To a small extent,3
+Q467048,To a moderate extent,4
+Q467048,To a large extent,5
+Q467048,To a very large extent,6
+Q467048,To an extremely large extent,7
+Q467064,To an extremely small extent,1
+Q467064,To a very small extent,2
+Q467064,To a small extent,3
+Q467064,To a moderate extent,4
+Q467064,To a large extent,5
+Q467064,To a very large extent,6
+Q467064,To an extremely large extent,7
+Q467080,Decreased to a large extent,1
+Q467080,Decreased to a moderate extent,2
+Q467080,Decreased to a small extent,3
+Q467080,Stayed the same,4
+Q467080,Increased to a small extent,5
+Q467080,Increased to a moderate extent,6
+Q467080,Increased to a large extent,7
+Q467230,No,
+Q467230,Yes,
+Q467236,NA: Have Not Filed Yet,
+Q467236,No,
+Q467236,Yes,
+Q467242,NA: Not Yet Due for a Refund,
+Q467242,No,
+Q467242,Yes,
+Q467261,To an extremely small extent,1
+Q467261,To a very small extent,2
+Q467261,To a small extent,3
+Q467261,To a moderate extent,4
+Q467261,To a large extent,5
+Q467261,To a very large extent,6
+Q467261,To an extremely large extent,7
+Q467261,NA: Already Received Refund,8
+Q467277,To an extremely small extent,1
+Q467277,To a very small extent,2
+Q467277,To a small extent,3
+Q467277,To a moderate extent,4
+Q467277,To a large extent,5
+Q467277,To a very large extent,6
+Q467277,To an extremely large extent,7
+Q467301,Decrease to a large extent,1
+Q467301,Decrease to a moderate extent,2
+Q467301,Decrease to a small extent,3
+Q467301,Remain about the same,4
+Q467301,Increase to a small extent,5
+Q467301,Increase to a moderate extent,6
+Q467301,Increase to a large extent,7
+Q467301,Do not have a mortgage,8
+Q467317,Decrease to a large extent,1
+Q467317,Decrease to a moderate extent,2
+Q467317,Decrease to a small extent,3
+Q467317,Remain about the same,4
+Q467317,Increase to a small extent,5
+Q467317,Increase to a moderate extent,6
+Q467317,Increase to a large extent,7
+Q467317,NA: Already Received Refund,8
+Q467333,Decrease to a large extent,1
+Q467333,Decrease to a moderate extent,2
+Q467333,Decrease to a small extent,3
+Q467333,Remain about the same,4
+Q467333,Increase to a small extent,5
+Q467333,Increase to a moderate extent,6
+Q467333,Increase to a large extent,7
+Q467360,Decrease to a large extent,1
+Q467360,Decrease to a moderate extent,2
+Q467360,Decrease to a small extent,3
+Q467360,Remain about the same,4
+Q467360,Increase to a small extent,5
+Q467360,Increase to a moderate extent,6
+Q467360,Increase to a large extent,7
+Q467384,Decrease to a large extent,1
+Q467384,Decrease to a moderate extent,2
+Q467384,Decrease to a small extent,3
+Q467384,Remain about the same,4
+Q467384,Increase to a small extent,5
+Q467384,Increase to a moderate extent,6
+Q467384,Increase to a large extent,7
+Q467400,Decrease to a large extent,1
+Q467400,Decrease to a moderate extent,2
+Q467400,Decrease to a small extent,3
+Q467400,Remain about the same,4
+Q467400,Increase to a small extent,5
+Q467400,Increase to a moderate extent,6
+Q467400,Increase to a large extent,7
+Q467416,Decrease to a large extent,1
+Q467416,Decrease to a moderate extent,2
+Q467416,Decrease to a small extent,3
+Q467416,Remain about the same,4
+Q467416,Increase to a small extent,5
+Q467416,Increase to a moderate extent,6
+Q467416,Increase to a large extent,7
+Q467440,Decrease to a large extent,1
+Q467440,Decrease to a moderate extent,2
+Q467440,Decrease to a small extent,3
+Q467440,Increase to a small extent,5
+Q467440,Increase to a moderate extent,6
+Q467440,Increase to a large extent,7
+Q467440,Stay the same,
+Q467456,No,
+Q467456,Yes,
+Q467462_467463,"March, 2020",1
+Q467462_467464,"April to May, 2020",2
+Q467462_467465,"June to July, 2020",3
+Q467462_467466,"August to December, 2020",4
+Q467462_467467,"January, 2021 or later",5
+Q467474,NA: Have Not Cancelled Flights,
+Q467474,No,
+Q467474,Yes,
+Q467480_467481,"March, 2020",1
+Q467480_467482,"April to May, 2020",2
+Q467480_467483,"June to July, 2020",3
+Q467480_467484,"August to December, 2020",4
+Q467480_467485,"January, 2021 or later",5
+Q467492,"Winter, 2020",1
+Q467492,"Spring, 2020",2
+Q467492,"Summer, 2020",3
+Q467492,"Fall, 2020",4
+Q467492,Sometime in 2021 (or later),5
+Q467504_467505,Domestically,
+Q467504_467506,Internationally,
+Q467504_467507,Not at all,
+Q467512,Decrease to a large extent,1
+Q467512,Decrease to a moderate extent,2
+Q467512,Decrease to a small extent,3
+Q467512,Stay the same,4
+Q467512,Increase to a small extent,5
+Q467512,Increase to a moderate extent,6
+Q467512,Increase to a large extent,7
+Q467528,Decrease to a large extent,1
+Q467528,Decrease to a moderate extent,2
+Q467528,Decrease to a small extent,3
+Q467528,Stay the same,4
+Q467528,Increase to a small extent,5
+Q467528,Increase to a moderate extent,6
+Q467528,Increase to a large extent,7
+Q467558,Decrease to a large extent,1
+Q467558,Decrease to a moderate extent,2
+Q467558,Decrease to a small extent,3
+Q467558,Stay the same,4
+Q467558,Increase to a small extent,5
+Q467558,Increase to a moderate extent,6
+Q467558,Increase to a large extent,7
+Q467558,NA: Already Have Subscription,8
+Q467574,Decrease to a large extent,1
+Q467574,Decrease to a moderate extent,2
+Q467574,Decrease to a small extent,3
+Q467574,Stay the same,4
+Q467574,Increase to a small extent,5
+Q467574,Increase to a moderate extent,6
+Q467574,Increase to a large extent,7
+Q467574,NA: Do Not Have Subscription,8
+Q467590,Decrease to a large extent,1
+Q467590,Decrease to a moderate extent,2
+Q467590,Decrease to a small extent,3
+Q467590,Stay the same,4
+Q467590,Increase to a small extent,5
+Q467590,Increase to a moderate extent,6
+Q467590,Increase to a large extent,7
+Q467607_467608,President,1
+Q467607_467609,Senator,3
+Q467607_467610,House of Representatives,4
+Q467607_467611,Governor or other state level,2
+Q467607_467612,None of the above,5
+Q467621,Much more opposed,1
+Q467621,Moderately more opposed,2
+Q467621,Mildly more opposed,3
+Q467621,Stayed the same,4
+Q467621,Mildly more supportive,5
+Q467621,Moderately more supportive,6
+Q467621,Much more supportive,7
+Q467637,Much more opposed,1
+Q467637,Moderately more opposed,2
+Q467637,Mildly more opposed,3
+Q467637,Stayed the same,4
+Q467637,Mildly more supportive,5
+Q467637,Moderately more supportive,6
+Q467637,Much more supportive,7
+Q467653,Much more opposed,1
+Q467653,Moderately more opposed,2
+Q467653,Mildly more opposed,3
+Q467653,Stayed the same,4
+Q467653,Mildly more supportive,5
+Q467653,Moderately more supportive,6
+Q467653,Much more supportive,7
+Q467669,Much more opposed,1
+Q467669,Moderately more opposed,2
+Q467669,Mildly more opposed,3
+Q467669,Stayed the same,4
+Q467669,Mildly more supportive,5
+Q467669,Moderately more supportive,6
+Q467669,Much more supportive,7
+Q467701,To an extremely small extent,1
+Q467701,To a very small extent,2
+Q467701,To a small extent,3
+Q467701,To a moderate extent,4
+Q467701,To a large extent,5
+Q467701,To a very large extent,6
+Q467701,To an extremely large extent,7
+Q467717,To an extremely small extent,1
+Q467717,To a very small extent,2
+Q467717,To a small extent,3
+Q467717,To a moderate extent,4
+Q467717,To a large extent,5
+Q467717,To a very large extent,6
+Q467717,To an extremely large extent,7
+Q467733,To an extremely small extent,1
+Q467733,To a very small extent,2
+Q467733,To a small extent,3
+Q467733,To a moderate extent,4
+Q467733,To a large extent,5
+Q467733,To a very large extent,6
+Q467733,To an extremely large extent,7
+Q467749,I am not employed,
+Q467749,My company has offered employees a voluntary option to work from home,
+Q467749,My company has required employees to work from home,
+Q467749,The nature of my work does not allow me to stay at home,
+Q467761,To an extremely small extent,1
+Q467761,To a very small extent,2
+Q467761,To a small extent,3
+Q467761,To a moderate extent,4
+Q467761,To a large extent,5
+Q467761,To a very large extent,6
+Q467761,To an extremely large extent,7
+Q467779,To an extremely small extent,1
+Q467779,To a very small extent,2
+Q467779,To a small extent,3
+Q467779,To a moderate extent,4
+Q467779,To a large extent,5
+Q467779,To a very large extent,6
+Q467779,To an extremely large extent,7
+Q467877,To an extremely small extent,1
+Q467877,To a very small extent,2
+Q467877,To a small extent,3
+Q467877,To a moderate extent,4
+Q467877,To a large extent,5
+Q467877,To a very large extent,6
+Q467877,To an extremely large extent,7
+Q467893,To an extremely small extent,1
+Q467893,To a very small extent,2
+Q467893,To a small extent,3
+Q467893,To a moderate extent,4
+Q467893,To a large extent,5
+Q467893,To a very large extent,6
+Q467893,To an extremely large extent,7
+Q467909,To an extremely small extent,1
+Q467909,To a very small extent,2
+Q467909,To a small extent,3
+Q467909,To a moderate extent,4
+Q467909,To a large extent,5
+Q467909,To a very large extent,6
+Q467909,To an extremely large extent,7
+Q467925,To an extremely small extent,1
+Q467925,To a very small extent,2
+Q467925,To a small extent,3
+Q467925,To a moderate extent,4
+Q467925,To a large extent,5
+Q467925,To a very large extent,6
+Q467925,To an extremely large extent,7
+Q467941,To an extremely small extent,1
+Q467941,To a very small extent,2
+Q467941,To a small extent,3
+Q467941,To a moderate extent,4
+Q467941,To a large extent,5
+Q467941,To a very large extent,6
+Q467941,To an extremely large extent,7
+Q467941,NA: No Optional Remote Work,8
+Q467965,1 to 3,1
+Q467965,4 to 9,2
+Q467965,10 to 20,3
+Q467965,More than 20,4
+Q467965,No one other than my direct family or others staying in my home,5
+Q467977,1 to 3,1
+Q467977,4 to 9,2
+Q467977,10 to 20,3
+Q467977,More than 20,4
+Q467977,Have not left my home for any of those reasons,5
+Q467997,Following constantly throughout the day,1
+Q467997,Following regularly throughout the day,2
+Q467997,Following very little,3
+Q467997,Not at all,4
+Q468007_468008,Local News,
+Q468007_468009,Fox News,
+Q468007_468010,CNN,
+Q468007_468015,MSNBC,
+Q468007_468016,HLN,
+Q468007_468017,Other news channel,
+Q468007_468018,New York Times,
+Q468007_468019,Wall Street Journal,
+Q468007_468020,Washington Post,
+Q468007_468021,Other newspaper,
+Q468007_468022,Twitter,
+Q468007_468023,Breitbart,
+Q468007_468024,OAN,
+Q468007_468025,Facebook,
+Q468007_468026,YouTube,
+Q468007_468027,Reddit,
+Q468007_468028,Other website,
+Q468007_468974,USA Today,
+Q468047,Significantly under-representing,1
+Q468047,Moderately under-representing,2
+Q468047,Slightly under-representing,3
+Q468047,Appropriately representing,4
+Q468047,Slightly over-representing,5
+Q468047,Moderately over-representing,6
+Q468047,Significantly over-representing,7
+Q468115_468116,A&E Network,
+Q468115_468117,History Channel,
+Q468115_468569,Lifetime,
+Q468115_468570,FYI,
+Q468115_468571,Freeform,
+Q468115_468572,Disney channels,
+Q468115_468573,FX,
+Q468115_468574,National Geographic,
+Q468115_468575,ESPN,
+Q468115_468577,Other,
+Q468124_468125,Netflix,
+Q468124_468126,Amazon Prime Video,
+Q468124_468127,Disney+,
+Q468124_468128,Hulu,
+Q468124_468129,HBO,
+Q468124_468130,Pluto,
+Q468124_468131,Showtime,
+Q468124_468132,Other,
+Q468151_468152,Pandora,
+Q468151_468153,Spotify,
+Q468151_468154,Amazon Prime Music,
+Q468151_468155,iHeartRadio,
+Q468151_468156,Apple Music,
+Q468151_468157,Other,
+Q468200,Decrease to a large extent,1
+Q468200,Decrease to a moderate extent,2
+Q468200,Decrease to a small extent,3
+Q468200,Remain about the same,4
+Q468200,Increase to a small extent,5
+Q468200,Increase to a moderate extent,6
+Q468200,Increase to a large extent,7
+Q468216,Decrease to a large extent,1
+Q468216,Decrease to a moderate extent,2
+Q468216,Decrease to a small extent,3
+Q468216,Remain about the same,4
+Q468216,Increase to a small extent,5
+Q468216,Increase to a moderate extent,6
+Q468216,Increase to a large extent,7
+Q468216,Do not own a house,8
+Q468234,Decrease to a large extent,1
+Q468234,Decrease to a moderate extent,2
+Q468234,Decrease to a small extent,3
+Q468234,Remain about the same,4
+Q468234,Increase to a small extent,5
+Q468234,Increase to a moderate extent,6
+Q468234,Increase to a large extent,7
+Q468250,Decrease to a large extent,1
+Q468250,Decrease to a moderate extent,2
+Q468250,Decrease to a small extent,3
+Q468250,Remain about the same,4
+Q468250,Increase to a small extent,5
+Q468250,Increase to a moderate extent,6
+Q468250,Increase to a large extent,7
+Q468266,Decrease to a large extent,1
+Q468266,Decrease to a moderate extent,2
+Q468266,Decrease to a small extent,3
+Q468266,Stay the same,4
+Q468266,Increase to a small extent,5
+Q468266,Increase to a moderate extent,6
+Q468266,Increase to a large extent,7
+Q468266,Do not have a car/drive,8
+Q468284,Decrease to a large extent,1
+Q468284,Decrease to a moderate extent,2
+Q468284,Decrease to a small extent,3
+Q468284,Stay the same,4
+Q468284,Increase to a small extent,5
+Q468284,Increase to a moderate extent,6
+Q468284,Increase to a large extent,7
+Q468284,Do not have a car/drive,8
+Q468311,Decrease to a large extent,1
+Q468311,Decrease to a moderate extent,2
+Q468311,Decrease to a small extent,3
+Q468311,Stay the same,4
+Q468311,Increase to a small extent,5
+Q468311,Increase to a moderate extent,6
+Q468311,Increase to a large extent,7
+Q468327,Decrease to a large extent,1
+Q468327,Decrease to a moderate extent,2
+Q468327,Decrease to a small extent,3
+Q468327,Stay the same,4
+Q468327,Increase to a small extent,5
+Q468327,Increase to a moderate extent,6
+Q468327,Increase to a large extent,7
+Q468343,Decrease to a large extent,1
+Q468343,Decrease to a moderate extent,2
+Q468343,Decrease to a small extent,3
+Q468343,Stay the same,4
+Q468343,Increase to a small extent,5
+Q468343,Increase to a moderate extent,6
+Q468343,Increase to a large extent,7
+Q468359,Decrease to a large extent,1
+Q468359,Decrease to a moderate extent,2
+Q468359,Decrease to a small extent,3
+Q468359,Stay the same,4
+Q468359,Increase to a small extent,5
+Q468359,Increase to a moderate extent,6
+Q468359,Increase to a large extent,7
+Q468375,Decrease to a large extent,1
+Q468375,Decrease to a moderate extent,2
+Q468375,Decrease to a small extent,3
+Q468375,Stay the same,4
+Q468375,Increase to a small extent,5
+Q468375,Increase to a moderate extent,6
+Q468375,Increase to a large extent,7
+Q468391,Decrease to a large extent,1
+Q468391,Decrease to a moderate extent,2
+Q468391,Decrease to a small extent,3
+Q468391,Stay the same,4
+Q468391,Increase to a small extent,5
+Q468391,Increase to a moderate extent,6
+Q468391,Increase to a large extent,7
+Q468428,Decrease to a large extent,1
+Q468428,Decrease to a moderate extent,2
+Q468428,Decrease to a small extent,3
+Q468428,Stay the same,4
+Q468428,Increase to a small extent,5
+Q468428,Increase to a moderate extent,6
+Q468428,Increase to a large extent,7
+Q468601,Decrease to a large extent,1
+Q468601,Decrease to a moderate extent,2
+Q468601,Decrease to a small extent,3
+Q468601,Remain about the same,4
+Q468601,Increase to a small extent,5
+Q468601,Increase to a moderate extent,6
+Q468601,Increase to a large extent,7
+Q468672_468673,"Subscription to a service (e.g., meal kit delivery)",
+Q468672_468674,TV subscription/Streaming service,
+Q468672_468675,"Subscription to a virtual gym (e.g., Peloton)",
+Q468672_468676,"Subscription to an e-learning service (e.g., Lynda, Coursera)",
+Q468672_468677,"Subscription to a food delivery service (e.g., Amazon Fresh, Peapod)",
+Q468672_468678,An online course to advance your career,
+Q468672_468679,Gym membership,
+Q468672_468680,None of the above,
+Q468698,Decrease to a large extent,1
+Q468698,Decrease to a moderate extent,2
+Q468698,Decrease to a small extent,3
+Q468698,Stay the same,4
+Q468698,Increase to a small extent,5
+Q468698,Increase to a moderate extent,6
+Q468698,Increase to a large extent,7
+Q468698,NA: Already Have Subscription,8
+Q468730,Decrease to a large extent,1
+Q468730,Decrease to a moderate extent,2
+Q468730,Decrease to a small extent,3
+Q468730,Stay the same,4
+Q468730,Increase to a small extent,5
+Q468730,Increase to a moderate extent,6
+Q468730,Increase to a large extent,7
+Q468730,NA: Already Have Subscription,8
+Q468770,Decrease to a large extent,1
+Q468770,Decrease to a moderate extent,2
+Q468770,Decrease to a small extent,3
+Q468770,Stay the same,4
+Q468770,Increase to a small extent,5
+Q468770,Increase to a moderate extent,6
+Q468770,Increase to a large extent,7
+Q468770,NA: Do Not Have Subscription,8
+Q468810,Decrease to a large extent,1
+Q468810,Decrease to a moderate extent,2
+Q468810,Decrease to a small extent,3
+Q468810,Stay the same,4
+Q468810,Increase to a small extent,5
+Q468810,NA: Do Not Have Subscription,8
+Q468842,Decrease to a large extent,1
+Q468842,Decrease to a moderate extent,2
+Q468842,Decrease to a small extent,3
+Q468842,Stay the same,4
+Q468842,Increase to a small extent,5
+Q468842,NA: Do Not Have Subscription,8
+Q468890,Decrease to a large extent,1
+Q468890,Decrease to a moderate extent,2
+Q468890,Decrease to a small extent,3
+Q468890,Stay the same,4
+Q468890,Increase to a small extent,5
+Q468890,Increase to a moderate extent,6
+Q468890,Increase to a large extent,7
+Q468890,NA: Do Not Have Subscription,8
+Q468922,Decrease to a large extent,1
+Q468922,Decrease to a moderate extent,2
+Q468922,Decrease to a small extent,3
+Q468922,Increase to a small extent,5
+Q468922,NA: Already Have Subscription,
+Q468922,Stay the same,
+Q468994_468995,Understanding and accepting people who are different from you,
+Q468994_468996,"Acquiring wealth, status, and influence",
+Q468994_468997,Avoiding upsetting or harming people,
+Q468994_468998,Being dependable and trustworthy for family and friends,
+Q468994_468999,Being humble and modest,
+Q468994_469000,Being in charge and directing people,
+Q468994_469001,Caring for nature and protecting the environment,
+Q468994_469002,Enjoying the pleasures of life,
+Q468994_469003,"Having a life full of excitement, novelties, and challenges",
+Q468994_469004,Being successful and admired for your achievements,
+Q468994_469005,Helping and caring for family and friends,
+Q468994_469006,"Maintaining a good public image, and being treated with respect and dignity",
+Q468994_469007,"Preserving family, cultural, or religious traditions and customs",
+Q468994_469008,Fulfilling obligations and obeying rules,
+Q468994_469009,Having a safe and stable community and nation,
+Q468994_469010,"Preserving your own safety, and the safety of your family",
+Q468994_469011,Treating every person in the world equally and justly,
+Q468994_469012,Being free to determine your own actions,
+Q468994_469013,"Being free to think up new ideas, to be creative, and to develop new skills",
+Q469034_469035,Understanding and accepting people who are different from you,
+Q469034_469036,"Acquiring wealth, status, and influence",
+Q469034_469037,Avoiding upsetting or harming people,
+Q469034_469038,Being dependable and trustworthy for family and friends,
+Q469034_469039,Being humble and modest,
+Q469034_469040,Being in charge and directing people,
+Q469034_469042,Enjoying the pleasures of life,
+Q469034_469043,"Having a life full of excitement, novelties, and challenges",
+Q469034_469044,Being successful and admired for your achievements,
+Q469034_469045,Helping and caring for family and friends,
+Q469034_469046,"Maintaining a good public image, and being treated with respect and dignity",
+Q469034_469047,"Preserving family, cultural, or religious traditions and customs",
+Q469034_469048,Fulfilling obligations and obeying rules,
+Q469034_469050,"Preserving your own safety, and the safety of your family",
+Q469034_469051,Treating every person in the world equally and justly,
+Q469034_469052,Being free to determine your own actions,
+Q469034_469053,"Being free to think up new ideas, to be creative, and to develop new skills",

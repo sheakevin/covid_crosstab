@@ -5,14 +5,14 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "274325121",
+    "hash" : "0",
     "id" : "FCA46365",
-    "lastKnownWriteTime" : 1585587878,
-    "last_content_update" : 1585587878027,
+    "lastKnownWriteTime" : 1585931217,
+    "last_content_update" : 1585931217,
     "path" : "~/OneDrive - Resonate.com/Custom/Coronavirus/CovidCrossTab/CoronavirusCrosstab/global.R",
     "project_path" : "global.R",
     "properties" : {
-        "cursorPosition" : "4,0",
+        "cursorPosition" : "17,0",
         "scrollLine" : "0"
     },
     "read_only" : false,
